@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 - 🔭 I'm currently working on Crop Disease detection and Forecasting
